@@ -1,0 +1,12 @@
+.filters-content {
+  padding: 20px 20px 0 20px;
+  margin: 0px;
+}
+.datepicker {
+  margin-right: 15px;
+  background-color: #d1d1d1;
+  padding: 10px 8px;
+  outline-width: 0;
+  border: none;
+  border-bottom: 1px solid gray;
+}
