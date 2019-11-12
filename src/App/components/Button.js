@@ -17,6 +17,7 @@ class Button extends Component {
       cursor: 'pointer',
       outlineWidth: 0,
       border: 'none',
+      float: 'unset',
       borderRadius: 'unset'
     }
 
