@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/point-control-react/static/css/main.3a1c8776.chunk.css",
+    "main.js": "/point-control-react/static/js/main.0058b1f3.chunk.js",
+    "main.js.map": "/point-control-react/static/js/main.0058b1f3.chunk.js.map",
+    "runtime~main.js": "/point-control-react/static/js/runtime~main.4777023b.js",
+    "runtime~main.js.map": "/point-control-react/static/js/runtime~main.4777023b.js.map",
+    "static/css/2.e344ae16.chunk.css": "/point-control-react/static/css/2.e344ae16.chunk.css",
+    "static/js/2.8bdcaff6.chunk.js": "/point-control-react/static/js/2.8bdcaff6.chunk.js",
+    "static/js/2.8bdcaff6.chunk.js.map": "/point-control-react/static/js/2.8bdcaff6.chunk.js.map",
+    "index.html": "/point-control-react/index.html",
+    "precache-manifest.7bc10e1c774b1d09351871c431bd9d05.js": "/point-control-react/precache-manifest.7bc10e1c774b1d09351871c431bd9d05.js",
+    "service-worker.js": "/point-control-react/service-worker.js",
+    "static/css/2.e344ae16.chunk.css.map": "/point-control-react/static/css/2.e344ae16.chunk.css.map",
+    "static/css/main.3a1c8776.chunk.css.map": "/point-control-react/static/css/main.3a1c8776.chunk.css.map"
+  }
+}
