@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c444d39b10e2f1aa6be5ea15fd54e4fe",
+    "revision": "37129f8a85a6e531b137d60cabcf4d67",
     "url": "/point-control-react/index.html"
   },
   {

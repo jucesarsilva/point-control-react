@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/point-control-react/precache-manifest.7bc10e1c774b1d09351871c431bd9d05.js"
+  "/point-control-react/precache-manifest.c5fb7ce530292d9c9546a5772c58f8b7.js"
 );
 
 self.addEventListener('message', (event) => {
